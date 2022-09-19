@@ -89,7 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onChanged: (text){
                 n1 = int.parse(text);
               },),
-            ElevatedButton(onPressed: _incrementCounter, child: Text('Convert tot Fahreinheit'))
+            ElevatedButton(onPressed: _incrementCounter, child: Text('Convert to Fahreinheit'))
           ],//Kristina Korzhenevskaya
         ),
       ),
